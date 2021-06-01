@@ -8,7 +8,6 @@ attrs==21.2.0
 Babel==2.9.1
 Beaker==1.11.0
 beautifulsoup4==4.9.3
-Brlapi==0.8.2
 btrfsutil==5.12.1
 CacheControl==0.12.6
 ccsm==0.9.14.1
